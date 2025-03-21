@@ -6,17 +6,27 @@ layout: default
 
 <p>Category: {{ page.category }}</p>
 
-<h2>Posts in Category: {{ page.category }}</h2>
+<h2>Posts in Category: {{ page.title }}</h2>
 <ul>
-  {% assign category = page.category %}
-  {% for post in site.categories[category] %}
-    <li>
-      <a href="{{ post.url | relative_url }}">{{ post.title }}</a> - 
-      <small>{{ post.date | date: "%B %d, %Y" }}</small>
-    </li>
-  {% endfor %}
+  {% assign category = page.category | downcase %}
+  {% if site.categories[category] %}
+    {% for post in site.categories[category] %}
+      <li>
+        <a href="{{ post.url | relative_url }}">{{ post.title }}</a> - 
+        <small>{{ post.date | date: "%B %d, %Y" }}</small>
+      </li>
+    {% endfor %}
+  {% else %}
+    <p>No posts found in this category.</p>
+  {% endif %}
 </ul>
 
-{% if forloop.length == 0 %}
-  <p>No posts found in this category.</p>
-{% endif %}
+<h2>Debugging Info</h2>
+<p>Trying to access category: {{ category }}</p>
+
+<h3>All Categories:</h3>
+<ul>
+  {% for cat in site.categories %}
+    <li>{{ cat[0] }} ({{ cat[1] | size }})</li>
+  {% endfor %}
+</ul>
