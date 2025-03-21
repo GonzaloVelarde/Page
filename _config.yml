@@ -1,32 +1,28 @@
 # Dependencies
 
 # Permalinks
-permalink:        pretty
-relative_permalinks: False
+permalink: pretty
+relative_permalinks: false
 
 # Setup
-title:            Gonzalo Velarde
-tagline:          'GV'
-description:      'Another personal Website'
-baseurl: ""  # Dejar vacío para localhost o dominio raíz
-url: "https://gonzalovelarde.github.io/Blog"
-# baseurl: "" # Ruta base del proyecto
+title: Gonzalo Velarde
+tagline: 'GV'
+description: 'Another personal Website'
+url: "https://gonzalovelarde.github.io" # Dirección base de GitHub Pages
+baseurl: "/Blog" # Ruta base del proyecto
 
 author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
-
+  name: 'Gonzalo Velarde'
+  url: "www.linkedin.com/in/gonzalo-velarde-172bb1120"
 
 plugins:
-- jekyll-paginate
-- jekyll-assets
+  - jekyll-paginate
+  - jekyll-assets
 
-
-paginate:         5
+paginate: 5
 
 # Custom vars
-version:          2.1.0
-
+version: 2.1.0
 
 github:
-  repo:           https://github.com/poole/hyde
+  repo: https://github.com/GonzaloVelarde/Blog
