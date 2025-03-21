@@ -1,0 +1,47 @@
+/* Estilo de la imagen en la barra lateral */
+.sidebar-image {
+	display: flex;
+	justify-content: center; /* Centrar horizontalmente */
+	align-items: center; /* Centrar verticalmente */
+	margin-bottom: 1rem; /* Espacio debajo */
+  }
+  
+  .sidebar-image img {
+	display: block;
+	width: 120px; /* Ajusta el tamaño según tu preferencia */
+	height: 120px; /* Mantenerlo cuadrado para el círculo */
+	object-fit: contain; /* Ajustar la imagen sin recortar */
+	object-position: center; /* Centrar la imagen */
+	border-radius: 50%; /* Hacer la imagen circular */
+	background-color: #1a1a1a; /* Fondo oscuro para que combine con el círculo */
+	box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Sombra suave */
+  }
+  
+  /* Estilo para el About Me */
+  .about-me {
+	text-align: justify;
+	margin: 2rem auto;
+	padding: 1rem;
+	max-width: 800px;
+  }
+  
+  .about-me-header {
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	margin-bottom: 1rem;
+  }
+  
+  .about-me-header h1 {
+	font-size: 2.5rem;
+	margin: 0;
+  }
+  
+  .about-me-header img {
+	width: 150px; /* Ajusta el tamaño según lo que prefieras */
+	height: 150px;
+	border-radius: 50%; /* Imagen circular */
+	object-fit: cover;
+	margin-left: 1rem;
+	box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Sombra suave */
+  }

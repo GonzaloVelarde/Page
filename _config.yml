@@ -1,0 +1,31 @@
+# Dependencies
+
+# Permalinks
+permalink:        pretty
+relative_permalinks: False
+
+# Setup
+title:            Gonzalo Velarde
+tagline:          'GV'
+description:      'Another personal Website'
+baseurl: ""  # Dejar vacío para localhost o dominio raíz
+url: "http://localhost:4000"  # O el dominio completo en producción
+
+author:
+  name:           'Mark Otto'
+  url:            https://twitter.com/mdo
+
+
+plugins:
+- jekyll-paginate
+- jekyll-assets
+
+
+paginate:         5
+
+# Custom vars
+version:          2.1.0
+
+
+github:
+  repo:           https://github.com/poole/hyde

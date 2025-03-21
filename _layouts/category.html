@@ -1,0 +1,23 @@
+---
+layout: default
+---
+
+<h1>{{ page.title }}</h1>
+
+
+<p>Category: {{ page.category }}</p>
+
+
+{% assign category = page.category %}
+{% if category %}
+  <ul>
+    {% for post in site.categories[category] %}
+      <li>
+        <a href="{{ post.url | relative_url }}">{{ post.title }}</a> - 
+        <small>{{ post.date | date: "%B %d, %Y" }}</small>
+      </li>
+    {% endfor %}
+  </ul>
+{% else %}
+  <p>No posts found in this category.</p>
+{% endif %}

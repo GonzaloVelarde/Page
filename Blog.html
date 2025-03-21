@@ -1,0 +1,17 @@
+---
+layout: page
+title: "Blog"
+permalink: /blog/
+---
+
+<h1> Categories</h1>
+<ul>
+  {% for category in site.categories %}
+    <li>
+      <a href="{{ site.baseurl }}/blog/category/{{ category[0] | slugize | downcase }}">
+        {{ category[0] | capitalize }}
+      </a>
+    </li>
+  {% endfor %}
+</ul>
+
