@@ -2,8 +2,6 @@
 layout: page
 title: CV
 ---
-
-
 ## Formation
 
 •	2022-now: PhD. "Clinical Applications of Optical Aberration Measurements in Ophthalmology"
