@@ -9,7 +9,8 @@ title:            Gonzalo Velarde
 tagline:          'GV'
 description:      'Another personal Website'
 baseurl: ""  # Dejar vacío para localhost o dominio raíz
-url: "http://localhost:4000"  # O el dominio completo en producción
+url: "https://gonzalovelarde.github.io"
+baseurl: "/Blog" # Ruta base del proyecto
 
 author:
   name:           'Mark Otto'
