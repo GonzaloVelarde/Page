@@ -1,0 +1,14 @@
+---
+layout: none
+---
+
+{% assign categories = site.categories %}
+{% for category in categories %}
+  {% capture cat_name %}{{ category | first }}{% endcapture %}
+  ---
+  layout: category
+  title: "{{ cat_name | capitalize }}"
+  category: {{ cat_name }}
+  permalink: /blog/category/{{ cat_name | slugize }}/
+  ---
+{% endfor %}
