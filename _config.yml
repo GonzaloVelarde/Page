@@ -9,8 +9,8 @@ title:            Gonzalo Velarde
 tagline:          'GV'
 description:      'Another personal Website'
 baseurl: ""  # Dejar vacío para localhost o dominio raíz
-url: "https://gonzalovelarde.github.io"
-baseurl: "/Blog" # Ruta base del proyecto
+url: "https://gonzalovelarde.github.io/Blog"
+# baseurl: "" # Ruta base del proyecto
 
 author:
   name:           'Mark Otto'
