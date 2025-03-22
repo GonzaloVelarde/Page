@@ -8,8 +8,8 @@ relative_permalinks: false
 title: Gonzalo Velarde
 tagline: 'GV'
 description: 'Another personal Website'
-url: "https://gonzalovelarde.github.io/Blog" 
-baseurl: "" # Ruta base del proyecto
+url: "https://gonzalovelarde.github.io/Blog"
+baseurl: "/Blog"
 
 author:
   name: 'Gonzalo Velarde'
