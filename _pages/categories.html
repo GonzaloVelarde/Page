@@ -8,7 +8,7 @@ permalink: /blog/categories/
 <ul>
   {% for category in site.categories %}
     <li>
-      <a href="{{ site.baseurl }}/blog/category/{{ category[0] | slugize }}/">{{ category[0] | capitalize }}</a> 
+      <a href="{{ site.url }}/blog/category/{{ category[0] | slugize }}/">{{ category[0] | capitalize }}</a> 
       ({{ category[1] | size }} posts)
     </li>
   {% endfor %}
