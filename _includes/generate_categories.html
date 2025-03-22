@@ -1,9 +1,0 @@
-{% for category in site.categories %}
-  {% capture category_name %}{{ category[0] | slugize }}{% endcapture %}
-  ---
-  layout: category_index
-  title: "{{ category[0] | capitalize }}"
-  category: {{ category[0] | downcase }}
-  permalink: /blog/category/{{ category_name }}/
-  ---
-{% endfor %}
