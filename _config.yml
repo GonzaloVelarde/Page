@@ -19,11 +19,11 @@ plugins:
   - jekyll-paginate
   - jekyll-assets
 
-jekyll-archives:
-  enabled:
-    - categories
-  layout: category
-  permalink: /blog/category/:name/
+# jekyll-archives:
+#   enabled:
+#     - categories
+#   layout: category
+#   permalink: /blog/category/:name/
 
 paginate: 5
 
