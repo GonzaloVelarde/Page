@@ -45,3 +45,18 @@
 	margin-left: 1rem;
 	box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Sombra suave */
   }
+
+/* Asegúrate de que el contenedor de contenido tenga estos estilos */
+.content {
+	max-width: 800px;    /* Ajusta el ancho según lo que prefieras */
+	margin: 0 auto;      /* Centra el bloque en la página */
+	padding: 20px;
+	text-align: justify; /* Justificar el texto en lugar de alinearlo al centro */
+}
+
+/* Asegúrate de que los párrafos también tengan justificación */
+p {
+	text-align: justify;
+}
+
+  

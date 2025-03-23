@@ -2,7 +2,8 @@
 
 # Permalinks
 permalink: /:categories/:title/
-# relative_permalinks: false
+# relative_permalinks: True
+
 
 # Setup
 title: Gonzalo Velarde
