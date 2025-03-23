@@ -1,8 +1,8 @@
 # Dependencies
 
 # Permalinks
-permalink: pretty
-relative_permalinks: false
+permalink: /:categories/:title/
+# relative_permalinks: false
 
 # Setup
 title: Gonzalo Velarde
