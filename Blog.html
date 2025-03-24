@@ -4,12 +4,12 @@ title: Blog
 permalink: /blog/
 ---
 
-<div class="content">
+<div class="page">
     <h1>Blog</h1>
 
     {% for category in site.categories %}
         <h2>{{ category[0] | capitalize }}:</h2>
-        <ul style="margin-left: 20px;">
+        <ul>
             {% for post in category[1] %}
                 <li>
                     <a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a> - 
@@ -19,4 +19,3 @@ permalink: /blog/
         </ul>
     {% endfor %}
 </div>
-
