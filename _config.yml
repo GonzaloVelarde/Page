@@ -5,10 +5,10 @@ permalink: /:categories/:title/
 # relative_permalinks: True
 
 
-# Setup
+# Setup 
 title: Gonzalo Velarde
 tagline: 'GV'
-description: 'Another personal Website'
+description: 'Another Personal WebSite'
 url: "https://gonzalovelarde.github.io/Blog"
 baseurl: ""
 

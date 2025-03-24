@@ -1,17 +1,21 @@
 ---
-layout: page
-title: "Blog"
+layout: default
+title: Blog
 permalink: /blog/
 ---
 
-<h1> Categories</h1>
-<ul>
-  {% for category in site.categories %}
-    <li>
-      <a href="{{ site.url }}/blog/category/{{ category[0] | slugize | downcase }}">
-        {{ category[0] | capitalize }}
-      </a>
-    </li>
-  {% endfor %}
-</ul>
+<h1>Blog</h1>
+
+{% for category in site.categories %}
+  <h2>{{ category[0] | capitalize }}:</h2>
+  <ul style="margin-left: 20px;">
+    {% for post in category[1] %}
+      <li>
+        <a href="{{ post.url | relative_url }}">{{ post.title }}</a> - 
+        <small>{{ post.date | date: "%B %d, %Y" }}</small>
+      </li>
+    {% endfor %}
+  </ul>
+{% endfor %}
+
 

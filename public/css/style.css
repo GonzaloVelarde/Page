@@ -45,18 +45,40 @@
 	margin-left: 1rem;
 	box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Sombra suave */
   }
+  /* Ajustes generales para el contenido */
+.main-content {
+    margin-left: 350px; /* Asegura que todo el contenido tenga margen */
+    padding: 20px;
+}
 
-/* Asegúrate de que el contenedor de contenido tenga estos estilos */
 .content {
-	max-width: 800px;    /* Ajusta el ancho según lo que prefieras */
-	margin: 0 auto;      /* Centra el bloque en la página */
-	padding: 20px;
-	text-align: justify; /* Justificar el texto en lugar de alinearlo al centro */
+    max-width: 800px;
+    margin: 0 auto;
+    text-align: justify;
 }
 
-/* Asegúrate de que los párrafos también tengan justificación */
+h1, h2, h3, h4, h5, h6 {
+    text-align: left;
+}
+
 p {
-	text-align: justify;
+    text-align: justify;
+    margin-bottom: 1rem;
 }
 
-  
+a {
+    color: #0077cc;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+ul {
+    margin-left: 20px;
+}
+
+li {
+    margin: 5px 0;
+}
