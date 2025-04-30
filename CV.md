@@ -64,7 +64,7 @@ Sci Rep 14, 20369 (2024). [PubMed](https://pubmed.ncbi.nlm.nih.gov/39223223/)
 
 •	Postoperative intraocular lens tilt from preoperative full crystalline lens geometry using machine learning. Biomed. Opt. Express 16, 1439-1456 (2025). [OPTICA](https://opg.optica.org/boe/fulltext.cfm?uri=boe-16-4-1439&id=569143)
 
-•	Optimizing IOL calculation in triple-DMEK: Data from a real-life cohort. Journal of Optometry, 18(2), 100551. [ScienceDirect] (https://www.sciencedirect.com/science/article/pii/S1888429625000172?via%3Dihub)
+•	Optimizing IOL calculation in triple-DMEK: Data from a real-life cohort. Journal of Optometry, 18(2), 100551. [ScienceDirect](https://www.sciencedirect.com/science/article/pii/S1888429625000172?via%3Dihub)
 
 ## International Scientific Meetings:
 
