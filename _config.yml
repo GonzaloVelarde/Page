@@ -9,7 +9,7 @@ permalink: /:categories/:title/
 title: Gonzalo Velarde
 tagline: 'GV'
 description: 'Another Personal WebSite'
-url: "https://gonzalovelarde.github.io/Blog"
+url: "https://gonzalovelarde.github.io/Page"
 baseurl: ""
 
 author:
@@ -26,4 +26,4 @@ paginate: 5
 version: 2.1.0
 
 github:
-  repo: https://github.com/GonzaloVelarde/Blog
+  repo: https://github.com/GonzaloVelarde/Page
