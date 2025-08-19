@@ -8,7 +8,7 @@ title: CV
 
 •	2012-2013: MSc. Clinical Optometry
 
-•	2008-2012: Optometry Degree 
+•	2008-2012: Bachelor of Optometry (B. Optom)
 
 
 ## Career Path:
