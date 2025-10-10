@@ -19,3 +19,7 @@ layout: default
     </div>
 </div>
 
+ {% if page.comments != false %}
+    {% include comments.html %}
+  {% endif %}
+</div>
