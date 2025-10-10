@@ -45,26 +45,26 @@ Manual of Astigmatism 2022. pp. 38–43.
 
 ## Scientific Articles
 
-•	Assessment of the QuickSee wavefront autorefractor for characterizing refractive errors in school-age children.
-PLoS ONE 15(10): e0240933. [PubMed](https://pubmed.ncbi.nlm.nih.gov/33112912/)
+[Web of Science profile](https://www.webofscience.com/wos/author/record/JHU-3938-2023)
 
-•	Optical Evaluation of Intracorneal Ring Segment Surgery in Keratoconus.
-Transl Vis Sci Technol. 2022;11(3):19. doi:10.1167/tvst.11.3.19. [PubMed](https://pubmed.ncbi.nlm.nih.gov/35289835/)
+•	Velarde-Rodriguez G, Belda-Para C, Velasco-Ocaña M, Marichal-Hernandez JG, Mahíllo-Fernández I, Jiménez-Alfaro I, Wacker K, Romano V, Rodriguez-Ramos JM, Alejandre-Alba N. Vision and Quality of Life in Fuchs’ Endothelial Dystrophy Using a Prototype Aberrometer: A Cross-Sectional Study. Clin Ophthalmol. 2025;19:3681-3691 [PubMed](https://www.dovepress.com/vision-and-quality-of-life-in-fuchs-endothelial-dystrophy-using-a-prot-peer-reviewed-fulltext-article-OPTH)
 
-•	Risk of Intraocular Lens Opacification After Endothelial Keratoplasty for Different Intraocular Lens Models: A Retrospective Single-Center Cohort Study.Cornea. 2023 Jul 1;42(7):797-804. doi: 10.1097/ICO.0000000000003087. [PubMed](https://pubmed.ncbi.nlm.nih.gov/36633939/)
+•	Lorenzana-Blanco N, Velarde-Rodríguez G, Corte-Alonso S, García-Sandoval B, Jiménez-Alfaro I, Alejandre-Alba N. Optimizing IOL calculation in triple-DMEK: Data from a real-life cohort. J Optom. 2025;18(2):100551.[ScienceDirect](https://www.sciencedirect.com/science/article/pii/S1888429625000172?via%3Dihub)
 
-•	Ultra-High Resolution Optical Aberrometry in Patients with Keratoconus: A Cross-Sectional Study.
-Ophthalmol Ther. 2023 Jun;12(3):1569-1582. [PubMed](https://pubmed.ncbi.nlm.nih.gov/36856979/)
+•	Martinez-Enriquez E, Velarde-Rodríguez G, Alejandre-Alba N, et al. Postoperative intraocular lens tilt from preoperative full crystalline lens geometry using machine learning. Biomedical Optics Express. 2025;16(4):1439-1456.[OPTICA](https://opg.optica.org/boe/fulltext.cfm?uri=boe-16-4-1439&id=569143)
 
-•	Comparing the clinical applicability of wavefront phase imaging in keratoconus versus normal eyes.
-Sci Rep. 2024 May 1;14(1):9984. doi: 10.1038/s41598-024-60842-9. [PubMed](https://pubmed.ncbi.nlm.nih.gov/38693352/)
+•	Belda-Para C, Velarde-Rodríguez G, Marichal-Hernández JG, et al. Fuchs' Endothelial Corneal Dystrophy evaluation using a high-resolution wavefront sensor. Sci Rep. 2024;14(1):20369. Published 2024 Sep 2. [PubMed](https://pubmed.ncbi.nlm.nih.gov/39223223/)
 
-•	Fuchs’ Endothelial Corneal Dystrophy evaluation using a high-resolution wavefront sensor.
-Sci Rep 14, 20369 (2024). [PubMed](https://pubmed.ncbi.nlm.nih.gov/39223223/)
+•	Belda-Para C, Velarde-Rodríguez G, Velasco-Ocaña M, et al. Comparing the clinical applicability of wavefront phase imaging in keratoconus versus normal eyes. Sci Rep. 2024;14(1):9984. Published 2024 May 1. [PubMed](https://pubmed.ncbi.nlm.nih.gov/38693352/)
 
-•	Postoperative intraocular lens tilt from preoperative full crystalline lens geometry using machine learning. Biomed. Opt. Express 16, 1439-1456 (2025). [OPTICA](https://opg.optica.org/boe/fulltext.cfm?uri=boe-16-4-1439&id=569143)
+•	Lorenzana-Blanco N, Velarde-Rodríguez G, Corte-Alonso S, et al. Risk of Intraocular Lens Opacification After Endothelial Keratoplasty for Different Intraocular Lens Models: A Retrospective Single-Center Cohort Study. Cornea. 2023;42(7):797-804. [PubMed](https://pubmed.ncbi.nlm.nih.gov/36633939/)
 
-•	Optimizing IOL calculation in triple-DMEK: Data from a real-life cohort. Journal of Optometry, 18(2), 100551. [ScienceDirect](https://www.sciencedirect.com/science/article/pii/S1888429625000172?via%3Dihub)
+•	Velarde-Rodriguez G, Belda-Para C, Velasco-Ocaña M, et al. Ultra-High Resolution Optical Aberrometry in Patients with Keratoconus: A Cross-Sectional Study. Ophthalmol Ther. 2023;12(3):1569-1582. [PubMed](https://pubmed.ncbi.nlm.nih.gov/36856979/)
+
+•	Alejandre N, Pérez-Merino P, Velarde G, Jiménez-Alfaro I, Marcos S. Optical Evaluation of Intracorneal Ring Segment Surgery in Keratoconus. Transl Vis Sci Technol. 2022;11(3):19. [PubMed](https://pubmed.ncbi.nlm.nih.gov/35289835/)
+
+•	Gil A, Hernández CS, Pérez-Merino P, et al. Assesment of the QuickSee wavefront autorefractor for characterizing refractive errors in school-age children. PLoS One. 2020;15(10):e0240933. Published 2020 Oct 28. [PubMed](https://pubmed.ncbi.nlm.nih.gov/33112912/)
+
 
 ## International Scientific Meetings:
 
