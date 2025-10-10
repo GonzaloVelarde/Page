@@ -5,7 +5,7 @@ categories: optics
 ---
 # Introduction
 
-The development of intraocular lens (IOL) power calculation formulas represents one of the key milestones in modern cataract surgery. The earliest published IOL power formula was by Fyodorov (1967)[PubMed](https://pubmed.ncbi.nlm.nih.gov/4951572/), in collaboration with Kolinko / Kolonko (Russian contribution). Later, Colenbrander (1972) introduced his own theoretical formula, which served as a bridge toward later developments.
+The development of intraocular lens (IOL) power calculation formulas represents one of the key milestones in modern cataract surgery. The earliest published IOL power formula was by Fyodorov (1967) [PubMed](https://pubmed.ncbi.nlm.nih.gov/4951572/), in collaboration with Kolinko / Kolonko (Russian contribution). Later, Colenbrander (1972) introduced his own theoretical formula, which served as a bridge toward later developments.
 
 Later, empirical and regression-based formulas evolved into hybrid theoretical models that combined geometric optics with clinical data refinement.  
 Among the best-known and fully published “classical” formulas are **SRK/T** [PubMed](https://pubmed.ncbi.nlm.nih.gov/2330872/), **Holladay I** [PubMed](https://pubmed.ncbi.nlm.nih.gov/3263209/), **Haigis** [PubMed](https://pubmed.ncbi.nlm.nih.gov/11078399/), and **Hoffer Q** [PubMed](https://pubmed.ncbi.nlm.nih.gov/8312512/).  
@@ -54,9 +54,11 @@ It can be used to test and compare the output of different classical formulas.
 |Eye#12 | 41.61 | 3.24 | 25.42 |
 
 
-We need constants equivalence to do fair calculations. Following Professor Wolfgang Haigis: [Constant conversion](http://ocusoft.de/scripts2/ciolc.php)
+We need constants equivalence to do fair calculations. Following Professor Wolfgang Haigis: [Constant conversion](http://ocusoft.de/scripts2/ciolc.php).
+
+
 | A-Constand (SRK/T) | pACD (HofferQ) | Surgeon Factor (Holladay I) | a0 (Haigis) |
-|-----|--------|----------|---------|
+|--------------------|----------------|-----------------------------|-------------|
 | 118.90 | 5.46 | 1.67 | 1.243 |
 
 # Emmetropization IOLs
