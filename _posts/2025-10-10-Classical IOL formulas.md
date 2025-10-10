@@ -39,7 +39,6 @@ It can be used to test and compare the output of different classical formulas.
 
 | Eye | Km (D) | ACD (mm) | AL (mm) |
 |-----|--------|----------|---------|
-| Eye | Km (D) | ACD (mm) | AL (mm) |
 |Eye#1 | 45.82 |3.22 | 21.33 |
 |Eye#2 | 43.41 |2.73 | 21.91 |
 |Eye#3 | 45.64 |2.44 | 21.73 |
