@@ -45,3 +45,41 @@
 	margin-left: 1rem;
 	box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Sombra suave */
   }
+
+  /* --- Texto justificado en posts y páginas --- */
+.post p,
+.page p {
+  text-align: justify;
+  text-justify: inter-word;
+}
+
+/* --- Tamaño base del cuerpo del post (más pequeño) --- */
+.post {
+  font-size: 0.95rem;   /* antes ~1rem; ajusta a gusto */
+  line-height: 1.65;
+}
+
+/* --- Negritas: menos “gritonas”, mismo tamaño que el texto --- */
+.post b,
+.post strong {
+  font-weight: 600;   /* en lugar de 700 */
+  font-size: inherit; /* evita que se vean más grandes */
+}
+
+/* --- Títulos dentro del contenido del post --- */
+.post h1 { font-size: 1.6rem; margin-top: 1.2em; }
+.post h2 { font-size: 1.3rem; margin-top: 1.1em; }
+.post h3 { font-size: 1.15rem; }
+
+/* --- Título grande del post (el de la cabecera) --- */
+.post-title,
+.page-title {
+  font-size: 2.2rem;      /* Asegura jerarquía clara */
+  line-height: 1.2;
+}
+
+/* --- Ajustes responsivos en móviles --- */
+@media (max-width: 600px) {
+  .post { font-size: 0.98rem; }
+  .post-title, .page-title { font-size: 1.8rem; }
+}

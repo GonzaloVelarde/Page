@@ -1,0 +1,26 @@
+/* Justify all post text */
+.post-content p {
+  text-align: justify;
+  text-justify: inter-word;
+}
+
+/* Make all text slightly smaller for better hierarchy */
+.post-content {
+  font-size: 0.95rem;   /* reduce normal text size */
+  line-height: 1.6;
+}
+
+/* Reduce bold text slightly but keep weight contrast */
+.post-content strong, 
+.post-content b {
+  font-size: 0.96rem;
+  font-weight: 600;
+}
+
+/* Adjust heading sizes for better proportion */
+.post-content h1 {
+  font-size: 1.6rem;
+}
+.post-content h2 {
+  font-size: 1.3rem;
+}
