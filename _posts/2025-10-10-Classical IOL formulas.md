@@ -74,11 +74,11 @@ Following Professor Wolfgang Haigis’ directions ([Constant conversion](http://
 
 Given that, we can compute the emmetropic IOL power for each eye: 
 
-![Formulas image]({{ '/assets/images/ClassicFormulas.jpg' | relative_url }})
+![Formulas image]({{ '/assets/images/ClassicFormulas.png' | relative_url }})
 
 This figure reveals something known but important:  
-these classical formulas produce similar results.  
-The major differences appear at the extremes — very short and very long eyes.
+- These classical formulas produce similar results.  
+- The major differences appear at the extremes — very short and very long eyes.
 
 ---
 
