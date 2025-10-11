@@ -74,7 +74,7 @@ Following Professor Wolfgang Haigis’ directions ([Constant conversion](http://
 
 Given that, we can compute the emmetropic IOL power for each eye: 
 
-![Formulas image]({{ '/assets/images/ClassicFormulas.png' | absolute_url }})
+![Formulas image]({{ '/assets/images/ClassicFormulas.png' | relative_url }})
 
 This figure reveals something known but important:  
 - These classical formulas produce similar results.  
