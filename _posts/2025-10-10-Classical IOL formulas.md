@@ -62,7 +62,7 @@ We need constants equivalence to do fair calculations. Following Professor Wolfg
 
 
 
-![Imagen_formulas]('/assets/images/ClassicFormulas.jpg')
+![Imagen_formulas](/assets/images/ClassicFormulas.jpg)
 
 
 # Formula constants and its optimization process

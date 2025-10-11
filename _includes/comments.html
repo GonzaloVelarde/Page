@@ -1,11 +1,18 @@
 <section id="comments" class="post-comments">
   <h2 class="comments-title">Comentarios</h2>
-  <script src="https://utteranc.es/client.js"
-          repo="gonzalovelarde/Page"
-          issue-term="pathname"
-          label="comments"
-          theme="github-light"
-          crossorigin="anonymous"
-          async>
+  <div id="disqus_thread"></div>
+  <script>
+    var disqus_config = function () {
+      this.page.url = '{{ site.url }}{{ site.baseurl }}{{ page.url }}';
+      this.page.identifier = '{{ page.url }}';
+      this.language = 'es';
+    };
+    (function() {
+      var d = document, s = d.createElement('script');
+      s.src = 'https://gl-optics.disqus.com/embed.js'; // 👈 cambia "gl-optics" por tu shortname real
+      s.setAttribute('data-timestamp', +new Date());
+      (d.head || d.body).appendChild(s);
+    })();
   </script>
+  <noscript>Activa JavaScript para ver los comentarios de Disqus.</noscript>
 </section>
