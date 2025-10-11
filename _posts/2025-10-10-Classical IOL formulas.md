@@ -61,9 +61,7 @@ We need constants equivalence to do fair calculations. Following Professor Wolfg
 | 118.90 | 5.46 | 1.67 | 1.243 |
 
 
-
-![Imagen_formulas](/assets/images/ClassicFormulas.jpg)
-
+![Imagen_formulas]({{ '/assets/images/ClassicFormulas.jpg' | relative_url }})
 
 # Formula constants and its optimization process
 
