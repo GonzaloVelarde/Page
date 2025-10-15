@@ -47,7 +47,7 @@ Manual of Astigmatism 2022. pp. 38–43.
 
 [Web of Science profile](https://www.webofscience.com/wos/author/record/JHU-3938-2023)
 
-•	Velarde-Rodriguez G, Belda-Para C, Velasco-Ocaña M, Marichal-Hernandez JG, Mahíllo-Fernández I, Jiménez-Alfaro I, Wacker K, Romano V, Rodriguez-Ramos JM, Alejandre-Alba N. Vision and Quality of Life in Fuchs’ Endothelial Dystrophy Using a Prototype Aberrometer: A Cross-Sectional Study. Clin Ophthalmol. 2025;19:3681-3691. [PubMed](https://www.dovepress.com/vision-and-quality-of-life-in-fuchs-endothelial-dystrophy-using-a-prot-peer-reviewed-fulltext-article-OPTH)
+•	Velarde-Rodriguez G, Belda-Para C, Velasco-Ocaña M, Marichal-Hernandez JG, Mahíllo-Fernández I, Jiménez-Alfaro I, Wacker K, Romano V, Rodriguez-Ramos JM, Alejandre-Alba N. Vision and Quality of Life in Fuchs’ Endothelial Dystrophy Using a Prototype Aberrometer: A Cross-Sectional Study. Clin Ophthalmol. 2025;19:3681-3691. [PubMed](https://pubmed.ncbi.nlm.nih.gov/41080770/)
 
 •	Lorenzana-Blanco N, Velarde-Rodríguez G, Corte-Alonso S, García-Sandoval B, Jiménez-Alfaro I, Alejandre-Alba N. Optimizing IOL calculation in triple-DMEK: Data from a real-life cohort. J Optom. 2025;18(2):100551. [ScienceDirect](https://www.sciencedirect.com/science/article/pii/S1888429625000172?via%3Dihub)
 
