@@ -49,7 +49,7 @@ Manual of Astigmatism 2022. pp. 38–43.
 
 • Velarde-Rodriguez G, Garcia-Onrubia L, Sánchez-Lozano A, et al. Clinical impact of intraocular lens tilt and decentration: a cross-sectional study. BMC Ophthalmol. 2025;25(1):585.
 
-•	Velarde-Rodriguez G, Belda-Para C, Velasco-Ocaña M, Marichal-Hernandez JG, Mahíllo-Fernández I, Jiménez-Alfaro I, Wacker K, Romano V, Rodriguez-Ramos JM, Alejandre-Alba N. Vision and Quality of Life in Fuchs’ Endothelial Dystrophy Using a Prototype Aberrometer: A Cross-Sectional Study. Clin Ophthalmol. 2025;19:3681-3691. [PubMed](https://pubmed.ncbi.nlm.nih.gov/41080770/)
+• Velarde-Rodriguez G, Belda-Para C, Velasco-Ocaña M, et al. Vision and Quality of Life in Fuchs' Endothelial Dystrophy Using a Prototype Aberrometer: A Cross-Sectional Study. Clin Ophthalmol. 2025;19:3681-3691. Published 2025 Oct 5. doi:10.2147/OPTH.S548402 [PubMed](https://pubmed.ncbi.nlm.nih.gov/41080770/)
 
 •	Lorenzana-Blanco N, Velarde-Rodríguez G, Corte-Alonso S, García-Sandoval B, Jiménez-Alfaro I, Alejandre-Alba N. Optimizing IOL calculation in triple-DMEK: Data from a real-life cohort. J Optom. 2025;18(2):100551. [ScienceDirect](https://www.sciencedirect.com/science/article/pii/S1888429625000172?via%3Dihub)
 
