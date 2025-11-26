@@ -1,8 +1,6 @@
 ---
 title: "Costa Rica XVI: \xFAltima estaci\xF3n Madrid- Barajas"
 permalink: /Page/Blog/Costa_Rica_16
-categories:
-- Costa_Rica
 original_date: '2024-11-30T16:56:00-08:00'
 date: '2024-11-30 16:56:00'
 ---
@@ -30,5 +28,6 @@ Despues paramos para comer algo en el pueblito de Tres Ríos y comimos nuestro u
 Ademas ha sido muy divertido compartirlo con todos vosotros cada día. Así que no descarto hacerlo de nuevo el año que viene en nuestro destino a...
 
 Muchos besos a todos y hasta la próxima aventura.
+
 
 [![](/assets/images/Costa_Rica_16/img_5.jpg)](https://blogger.googleusercontent.com/img/a/AVvXsEhUkcZ9djwdnny9fQHdblcQOGK8qaRmIw0_ACDiKzMSodaMEXGw_I-xUu3ejfo2onuaC_2aervpCXLsxFMQ8tqPHIEy8QkxyyBemm4HWAy7YaDYIItNFgr4fstMG14YIga8-B43ZULZsgHkewZb_8jrXdVs6jl--OkwXIRNxbKZac5e7LRYesDYxofYuKLI)
