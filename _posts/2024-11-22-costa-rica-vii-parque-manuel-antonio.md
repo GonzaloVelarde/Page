@@ -1,8 +1,6 @@
 ---
 title: 'Costa Rica VII: Parque Manuel Antonio'
 permalink: /Page/Blog/Costa_Rica_7
-categories:
-- Costa_Rica
 original_date: '2024-11-22T18:02:00-08:00'
 date: '2024-11-22 18:02:00'
 ---
@@ -30,5 +28,6 @@ En el tramo final estuvimos buscando cocodrilos para mandárselo a Martín y a M
 Nuestro destino para los próximos días es Fortuna pero para hacer la cosa más llevadera hicimos noche en Alajuela. Un sitio encantador con un tráfico horrible. Estuvimos 50 minutos para hacer 15 kilómetros,  Waze se volvió un poco loco y me metió en una salida a autopista que es la pesadilla de cualquier conductor novel, tenía que incorporarme a la autovía sin carril de aceleración. La gente que tenía delante lo hizo sin pestañear así que yo detrás, salió bien mamá, no te preocupes.
 
 Así que llegamos a dormir a Alajuela donde ha llegado la navidad de manera oficial, hay árbol en la plaza. Es bastante raro celebrar la navidad en camiseta pero creo que me podría acostumbrar rápido a eso.
+
 
 [![](/assets/images/Costa_Rica_7/img_5.jpg)](https://blogger.googleusercontent.com/img/a/AVvXsEi4DX_XLAXweqgYUnNZIAwFhlwfBI56fvrPTlgwcjdXiZGzgaYgVQ-WXMY_EU-l6_StkxtDWCfYQhoKzU6lfMtdG6jGrxC5wT0rc8D-zDF8sMN6NjCvqsv1CoemQLZL461ZW3bA2TVXFwW0rNybfjYM7gNfywcN0lHtM8Sfq0AKKIKNf16VK2yI-_bEXHF2)
