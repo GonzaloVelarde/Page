@@ -1,6 +1,6 @@
 ---
 title: 'Costa Rica VI: experiencia completa, por favor'
-permalink: /Page/Blog/Costa_Rica_6
+permalink: /Blog/Costa_Rica_6
 original_date: '2024-11-21T20:58:00-08:00'
 date: '2024-11-21 20:58:00'
 ---

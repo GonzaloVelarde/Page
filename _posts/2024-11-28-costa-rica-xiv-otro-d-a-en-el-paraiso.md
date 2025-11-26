@@ -1,6 +1,6 @@
 ---
 title: "Costa Rica XIV: otro d\xEDa en el paraiso"
-permalink: /Page/Blog/Costa_Rica_14
+permalink: /Blog/Costa_Rica_14
 original_date: '2024-11-28T18:26:00-08:00'
 date: '2024-11-28 18:26:00'
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Costa Rica IV: tour casero por Bah\xEDa Drake"
-permalink: /Page/Blog/Costa_Rica_4
+permalink: /Blog/Costa_Rica_4
 original_date: '2024-11-18T20:15:00-08:00'
 date: '2024-11-18 20:15:00'
 ---

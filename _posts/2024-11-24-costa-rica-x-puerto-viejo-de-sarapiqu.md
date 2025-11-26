@@ -1,6 +1,6 @@
 ---
 title: "Costa Rica X: Puerto Viejo de Sarapiqu\xED"
-permalink: /Page/Blog/Costa_Rica_10
+permalink: /Blog/Costa_Rica_10
 original_date: '2024-11-24T16:38:00-08:00'
 date: '2024-11-24 16:38:00'
 ---

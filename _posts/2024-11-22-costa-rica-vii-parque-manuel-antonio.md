@@ -1,6 +1,6 @@
 ---
 title: 'Costa Rica VII: Parque Manuel Antonio'
-permalink: /Page/Blog/Costa_Rica_7
+permalink: /Blog/Costa_Rica_7
 original_date: '2024-11-22T18:02:00-08:00'
 date: '2024-11-22 18:02:00'
 ---

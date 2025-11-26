@@ -1,6 +1,6 @@
 ---
 title: 'Costa Rica III: camino a Drake'
-permalink: /Page/Blog/Costa_Rica_3
+permalink: /Blog/Costa_Rica_3
 original_date: '2024-11-18T19:45:00-08:00'
 date: '2024-11-18 19:45:00'
 ---

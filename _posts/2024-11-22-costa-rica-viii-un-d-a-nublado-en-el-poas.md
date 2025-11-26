@@ -1,6 +1,6 @@
 ---
 title: "Costa Rica VIII: Un d\xEDa nublado en el Poas"
-permalink: /Page/Blog/Costa_Rica_8
+permalink: /Blog/Costa_Rica_8
 original_date: '2024-11-22T18:40:00-08:00'
 date: '2024-11-22 18:40:00'
 ---

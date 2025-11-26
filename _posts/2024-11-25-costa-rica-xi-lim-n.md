@@ -1,6 +1,6 @@
 ---
 title: "Costa Rica XI: Lim\xF3n"
-permalink: /Page/Blog/Costa_Rica_11
+permalink: /Blog/Costa_Rica_11
 original_date: '2024-11-25T19:26:00-08:00'
 date: '2024-11-25 19:26:00'
 ---

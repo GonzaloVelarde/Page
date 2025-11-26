@@ -1,6 +1,6 @@
 ---
 title: 'Costa Rica XII: Puerto Viejo'
-permalink: /Page/Blog/Costa_Rica_12
+permalink: /Blog/Costa_Rica_12
 original_date: '2024-11-27T06:08:00-08:00'
 date: '2024-11-27 06:08:00'
 ---

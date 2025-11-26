@@ -1,6 +1,6 @@
 ---
 title: "Costa Rica XVI: \xFAltima estaci\xF3n Madrid- Barajas"
-permalink: /Page/Blog/Costa_Rica_16
+permalink: /Blog/Costa_Rica_16
 original_date: '2024-11-30T16:56:00-08:00'
 date: '2024-11-30 16:56:00'
 ---

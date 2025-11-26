@@ -1,6 +1,6 @@
 ---
 title: "Costa Rica XIII: Manzanillo y C\xF3cles"
-permalink: /Page/Blog/Costa_Rica_13
+permalink: /Blog/Costa_Rica_13
 original_date: '2024-11-27T17:46:00-08:00'
 date: '2024-11-27 17:46:00'
 ---

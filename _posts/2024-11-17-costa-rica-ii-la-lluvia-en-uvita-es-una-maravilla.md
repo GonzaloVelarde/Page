@@ -1,6 +1,6 @@
 ---
 title: 'Costa Rica II: la lluvia en Uvita es una maravilla'
-permalink: /Page/Blog/Costa_Rica_2
+permalink: /Blog/Costa_Rica_2
 original_date: '2024-11-17T18:45:00-08:00'
 date: '2024-11-17 18:45:00'
 ---

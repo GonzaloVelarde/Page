@@ -1,6 +1,6 @@
 ---
 title: "Costa Rica V: el norte de bah\xEDa Drake"
-permalink: /Page/Blog/Costa_Rica_5
+permalink: /Blog/Costa_Rica_5
 original_date: '2024-11-19T18:32:00-08:00'
 date: '2024-11-19 18:32:00'
 ---

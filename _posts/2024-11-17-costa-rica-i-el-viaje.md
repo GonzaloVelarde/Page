@@ -1,6 +1,6 @@
 ---
 title: 'Costa Rica I: el viaje'
-permalink: /Page/Blog/Costa_Rica_1
+permalink: /Blog/Costa_Rica_1
 original_date: '2024-11-17T18:01:00-08:00'
 date: '2024-11-17 18:01:00'
 ---
