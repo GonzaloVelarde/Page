@@ -29,12 +29,11 @@ Os aconsejo buscar la extensión del parque, es enorme. Nuestro tour duró unas 
 
 Realmente nos gustó mucho, creo que es un espacio conservado de verdad y que le sacan partido con el turismo de forma controlada. No me pareció un engaña-guiris. Para desgracia de Nora no vimos serpientes. Vamos con la historia, al parecer este sitio era un motor económico importante a raíz de la fiebre del oro. En esa misma zona que recorrimos estaba todo lleno de granjas y fue cerca del 1970 cuando se desmanteló todo aquello y se decidió proteger el ecosistemas. Llama la atención que muchos de esos árboles tengan solamente 50 años. Comimos en la estación Sirena con unos franceses un poco raros y directos de vuelta a Bahía Drake donde nos esperaba otro barco hacia Sierpe. Ese viaje de vuelta fue claramente peor pero nosotros estamos más felices. En el segundo barco hacia Sierpe ya con las maletas nos llovió mucho y las maletas se mojaron (era lo único que quedaba seco). Al llegar a Sierpe nos cambiamos y cogimos el coche para llegar a Quepos, está a una distancia de aproximadamente 2 horas en coche pero los atascos aquí son terribles. En mitad del viaje cayó una tormenta de esas en las que el limpiaparabrisas no da abasto y justo cuando estamos llegando al hotel:
 
-<iframe width="100%" height="480"
-  src="https://youtube.com/shorts/KOiV9RaPMYQ"
-  title="21 de noviembre de 2024"
-  frameborder="0"
-  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-  allowfullscreen>
-</iframe>
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%;">
+<iframe src="https://www.youtube.com/embed/KOiV9RaPMYQ" 
+title="No title" frameborder="0" allowfullscreen 
+style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
+</div>
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%;">
 
 Lo que nos faltaba para acabar un día larguísimo, un par de carreteras inundadas. Menos mal que había un motorista que acaba de pasar y pensé: hombre si ha pasado este buen hombre en una scooter, podré pasar yo con un todoterreno. Y así fue,  he perdido la cuenta de los ríos que hemos pasado en solo 3 días pero una cosa está clara, ha sido muy divertido.
