@@ -1,8 +1,6 @@
 ---
 title: "Costa Rica X: Puerto Viejo de Sarapiqu\xED"
 permalink: /Page/Blog/Costa_Rica_10
-categories:
-- Costa_Rica
 original_date: '2024-11-24T16:38:00-08:00'
 date: '2024-11-24 16:38:00'
 ---
@@ -32,5 +30,6 @@ Estos dos platos nos han salido por algo menos de 8 euros, de ahí mi cara de fe
 [![](/assets/images/Costa_Rica_10/img_5.jpg)](https://blogger.googleusercontent.com/img/a/AVvXsEhJCGTbXXGSfr6VcXhevDcL5z8jkFFxRsSkJZ2OBmozYsrXF0M2pw5PwqJB-7L7HNddcY7Po8YVWm2UzvQTGclDJVLxoqsCPJz6iVmNz94aXfGsQIlTpPx5kD-6hInzDCav4Opi_SM4lc4AsFzXr79kU26uHayfgkAx7BaS4K13aU7bixOiy83p1hxHnuvj)
 
 Teniendo este pintón el sitio hemos decidido hacer lo que todo dietista recomienda, hemos ido al super a por cervezas y patacones. Vamos a leer un ratito en esta super terraza y a dormir a pierna suelta mientras se escucha el río que cruza la finca.
+
 
 Pd: os actualizo con el tema de los calcetines, hoy he tenido que tirar un primer par porque estaban muy enfermos. Tenemos 4/5 pares en cuarentena.. pero tienen cara de quedarse a vivir en Costa Rica también, así que si estás leyendo esto y quieres regalarnos algo por navidades, ya sabes.
