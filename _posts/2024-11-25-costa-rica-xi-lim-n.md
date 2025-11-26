@@ -1,8 +1,6 @@
 ---
 title: "Costa Rica XI: Lim\xF3n"
 permalink: /Page/Blog/Costa_Rica_11
-categories:
-- Costa_Rica
 original_date: '2024-11-25T19:26:00-08:00'
 date: '2024-11-25 19:26:00'
 ---
@@ -30,5 +28,6 @@ No tengo mejor foto, lo siento. Pero ahí a la izquierda se les intuye. Haced un
 [![](/assets/images/Costa_Rica_11/img_5.jpg)](https://blogger.googleusercontent.com/img/a/AVvXsEjE_7kr-OniRvoR_NSx07o7wJLbbnTVzpMUMzj2BftYe6Cvzqe_DoW9QMVlxbNCr6FcqE_zJ14HN3vdwb5vOQlVTlvOA3dueA5MsFCk4JekNye8C0ZY29DkDojH6ZEVoTlmZET8MYer9KeMEbtnGL4iVEALMp6LJUBspQr4MRLX8Se59IFNnSPlKq6pV2rH)
 
 Como eran sobre las 5, dijimos bueno cervecita en la playa y luego vemos donde nos quedamos mañana. Nos agenciamos unas Pilsen y metimos los pies en remojo. Una pareja al fondo está en el mismo plan. Al cabo de un rato se nos acercan para pedir una foto pero sospecho que su plan no pasaba por hacer esa foto. Empezamos a charlar, de esto y de aquello. El se llama Felipe y ella Heidi. Los dos son de esta zona de Costa Rica y nos dicen que si queremos, ellos nos enseñan la zona. De inmediato mi sentido aracnido se activo pero vi que él era grande pero creo que Nora le puede y yo a la tica de 1.50 también salvo que sepa técnicas de combate especiales. Así que después de evaluar riesgos y beneficios nos subimos a su coche y nos dieron una vuelta por zonas que no hubiéramos explotado. Nos invitaron a unas caldosas (mirar post anterior) de camino y visitamos las playas de Cieneguita, Westfalia y Vizcaya. En esta última paramos a tomar unas cervezas, el cielo estaba despejado y las estrellas se veían genial. En ese bar les conocían y todo el mundo estaba de muy buen rollo y bastante piripi. Nos invitaron a las cervezas y a una sopa que se hace con carne que Heidi asegura que es el mejor remedio contra la resaca. Hablamos bastante y hay muchas cosas que contar pero como creo que habrá más entregas en las que apareceran me voy a reservar algunos datos. Solo diré que nos devolvieron al hostel con los dos riñones intactos, que intercambiamos telefonos y en el estado de Felipe de WhatsApp pone: agradeciendo a Jehová que me da la vida.
+
 
 [![](/assets/images/Costa_Rica_11/img_6.jpg)](https://blogger.googleusercontent.com/img/a/AVvXsEikQIBDqZ5BxihmudG9K4Ee1sV886600_3GgSH8D7RElpBqkDiYa-vkrXGetIlLl5h46lHVehkOisMce1_A2N7tTE7xBE0OkPNi6UsD-x6ifOWGK-9NCRh86tdFE9Z1WUE-iLZOrgg9hT9EOpKQn0poFKHcLiJA5bQh1Do6moFwKaYT38uyje5wSvO9f2KD)
