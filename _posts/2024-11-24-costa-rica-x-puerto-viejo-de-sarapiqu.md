@@ -9,13 +9,15 @@ Amanecimos en nuestra maravillosa [casita](https://www.booking.com/hotel/cr/aren
 
 En cualquier caso estábamos en ruta a eso de las 08:00, habíamos quedado una hora más tarde en Puerto Viejo de Sarapiquí para hacer rafting!
 
-![](/assets/images/Costa_Rica_10/img_1.png)Antes se meternos en harina, el río Sarapiquí y el puerto de este pueblo fueron muy importantes para Costa Rica en el pasado. En esta zona abundan las grandes plantaciones y a través de el río, se distrubuían para gran parte de el pais. Pasado ya este momento cultureta debo decir que nunca había hecho rafting y me ha encantado. No he tenido sensación de peligro en ningún momento y todo han sido buenas vibras. Hemos hecho este tour con Green Rivers porque lo decía la Lonely Planet. El tipo al mando se llama Ray y tiene el culo pelao, es de estas personas que debe valer para todo. Esperad, que pongo una foto porque con un poco se azúcar es la píldora, que os dan.
+![Foto1]({{"/assets/images/Costa_Rica_10/img_1.png" | absolute_url}})
 
-![](/assets/images/Costa_Rica_10/img_2.png)
+Antes se meternos en harina, el río Sarapiquí y el puerto de este pueblo fueron muy importantes para Costa Rica en el pasado. En esta zona abundan las grandes plantaciones y a través de el río, se distrubuían para gran parte de el pais. Pasado ya este momento cultureta debo decir que nunca había hecho rafting y me ha encantado. No he tenido sensación de peligro en ningún momento y todo han sido buenas vibras. Hemos hecho este tour con Green Rivers porque lo decía la Lonely Planet. El tipo al mando se llama Ray y tiene el culo pelao, es de estas personas que debe valer para todo. Esperad, que pongo una foto porque con un poco se azúcar es la píldora, que os dan.
+
+![Foto2]({{"/assets/images/Costa_Rica_10/img_2.png" | absolute_url}})
 
 Bueno, que Ray nos ha estado contando que el país invierte mucho dinero en alfabetización y sanidad. También nos ha contado que el sistema judicial y que aunque no tenga ejército las fuerzas policiales funcionan muy bien. Llámame rojeras, pero este tipo de decisiones como país me devuelven la fe en la raza humana. El caso es que el tipo también sabía de pájaros (he perdido la cuenta de las variedades que hemos visto, saludos a Álvaro Sarró, ornitólogo y mejor persona). Hemos hecho una parada en el río para comer piña, mango y unas galletas de coco de la marca Pozuelo que ojalá las lleven a España algún dia. En esa parada había para saltar al río desde un alto así que lógicamente lo hemos hecho un par de veces.
 
-[![](/assets/images/Costa_Rica_10/img_3.jpg)](https://blogger.googleusercontent.com/img/a/AVvXsEioHfA9JmkjHtSLoqrsUbr9Hqqr67Ks3iW1hZZTc5FIPUFMy9G5bDVduPEUIbVdjioGCPPQX04cxIj1fOOqTuMkt2PXRlbjOZ1juMXkkqu7TqrU6NTZnL3eQNxSR3R-yZCDCrtMya1uFCOrsxlazJ3KHgunJAZrIFnuGzngh_U_wRCL-aZdTH0WVmIrm4mt)
+![Foto3]({{"/assets/images/Costa_Rica_10/img_3.jpg" | absolute_url}})
 
 Acabamos el tour y ninguno de los dos nos caímos, sabía que Nora no se caería pero las casas de apuestas no decían lo mismo en cuanto a mi. Así que final feliz.
 
@@ -23,11 +25,11 @@ Atención! Hemos comido [aquí](https://maps.app.goo.gl/DqcNNC9QbqPddgVo8).
 
 Tremendo sitio, nos hemos comido unas caldosas que es un Ceviche con una especial de Doritos picantes.
 
-[![](/assets/images/Costa_Rica_10/img_4.jpg)](https://blogger.googleusercontent.com/img/a/AVvXsEhAyOZrDkX7zJD94_oiAf1G_ZOJEFzF6yQ4p7tiO3N1XxVs-HC6mk7gCDkH5DwaSeib9JX2i3q_HHF4pOkE2MUD_ybj2bScqQ9O6mqNGUB-wtTEhih8QJcyY0WGmSdyNAWRHr4cOPvE2i6Z7S7bWSIq4R5d9S8eQSIK-cX4Lp3ncqexG5y_6u0wzcXmKMgx)
+![Foto4]({{"/assets/images/Costa_Rica_10/img_4.jpg" | absolute_url}})
 
 Estos dos platos nos han salido por algo menos de 8 euros, de ahí mi cara de felicidad. Después el tiempo ha empeorado un poco así que nos hemos venido directamente a nuestra casa de hoy. Sinceramente, me jode no pasar más días aquí, se trata de una hacienda enorme con senderos en la propia finca y ganado propio.
 
-[![](/assets/images/Costa_Rica_10/img_5.jpg)](https://blogger.googleusercontent.com/img/a/AVvXsEhJCGTbXXGSfr6VcXhevDcL5z8jkFFxRsSkJZ2OBmozYsrXF0M2pw5PwqJB-7L7HNddcY7Po8YVWm2UzvQTGclDJVLxoqsCPJz6iVmNz94aXfGsQIlTpPx5kD-6hInzDCav4Opi_SM4lc4AsFzXr79kU26uHayfgkAx7BaS4K13aU7bixOiy83p1hxHnuvj)
+![Foto5]({{"/assets/images/Costa_Rica_10/img_5.jpg" | absolute_url}})
 
 Teniendo este pintón el sitio hemos decidido hacer lo que todo dietista recomienda, hemos ido al super a por cervezas y patacones. Vamos a leer un ratito en esta super terraza y a dormir a pierna suelta mientras se escucha el río que cruza la finca.
 
