@@ -29,4 +29,4 @@ Nuestro destino para los próximos días es Fortuna pero para hacer la cosa más
 
 Así que llegamos a dormir a Alajuela donde ha llegado la navidad de manera oficial, hay árbol en la plaza. Es bastante raro celebrar la navidad en camiseta pero creo que me podría acostumbrar rápido a eso.
 
-![Foto5]({{"/assets/images/Costa_Rica_7/img_4.jpg" | absolute_url}})
+![Foto5]({{"/assets/images/Costa_Rica_7/img_5.jpg" | absolute_url}})
