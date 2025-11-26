@@ -1,8 +1,6 @@
 ---
 title: 'Costa Rica III: camino a Drake'
 permalink: /Page/Blog/Costa_Rica_3
-categories:
-- Costa_Rica
 original_date: '2024-11-18T19:45:00-08:00'
 date: '2024-11-18 19:45:00'
 ---
@@ -24,5 +22,6 @@ Después cogimos el coche Ojochal, no nos bajamos del mismo porque llovía a can
 Llevábamos dos guías, la gente aquí es encantadora y grandes conversadores. A uno ellos todo le llamaban maestro, y realmente era un hombre sabio con mucha experiencia en el manglar. Compartimos el tour con un matrimonio de origen indio muy peculiar que vivia en Chicago. El señor nos contó que en India habían encontrado en unas ruinas una pitón de no se cuantos metros y todavía mas kilogramos que no podían levantarla ni entre todos los hombres del pueblo. En fin, creo que exageró, pero quién no lo hace?.
 
 Luego tuvimos contacto con Juan Aka John. Es el encargado del transporte en barco desde Sierpe hasta Bahía Drake, te cobra 11.000 colones y el tío llevaba un colgante de una virgen colgada de un gruesa cadena de oro.
+
 
 El viaje a Drake es de una hora por el rio Sierpe, que toma su nombre por parecer una "serpient" en inglés según nuestro guía. Ahí conocimos a un señor de mediana edad que casi seguro se acaba de separar y estaba haciendo un viaje por Costa Rica con sus demás amigos separados. Hizo lo que se esperaba de él, un par de chascarrillos y unos datos de dudosa credibilidad y marchando. Parecía un buen tío que esperaba encontrar la esencia de su persona en un viaje exótico. El desembarco en Bahía Drake es de lo que llaman "húmedo", es decir que te tiran a escasos metros de la playa porque no hay muelle. Ahí nos estaba esperando Karina del hostel Mariposa, una señora encantadora que nos acompañó a nuestra suit de 20 dólares la noche. Decidimos clausurar el día con unas cervezas y un billar para coger fuerzas para lo que sería un día intenso.
