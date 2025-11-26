@@ -1,8 +1,6 @@
 ---
 title: "Costa Rica V: el norte de bah\xEDa Drake"
 permalink: /Page/Blog/Costa_Rica_5
-categories:
-- Costa_Rica
 original_date: '2024-11-19T18:32:00-08:00'
 date: '2024-11-19 18:32:00'
 ---
@@ -20,5 +18,6 @@ Al acabar la Ganadito, hemos ido hasta el pueblo El Progreso (son optimistas has
 El caso es que hemos llegado hasta una zona donde pretendíamos volver de manera rápida a Bahía Drake pero otra vez el homónimo río nos la ha jugado. Imposible de pasar, nos hemos mirado y sin hablar sabíamos que era demasiado riesgo porque la corriente era muy fuerte. Así que le hemos preguntado a un chico de unos 17 años que decía tener un taller si nos podía ayudar. Otra vez más, los locales al rescate de los guiris intrépidos. Nos vino a decir que ese río lo pasan todas las mañanas a pie antes de desayunar y que éramos unos flojos. También nos aconsejó una ruta para blanquitos que daba un poco de vuelta pero pasaba por un par de puentes, no fuera a ser que a sus majestades se les mojara la capa. Y básicamente eso hicimos, dar un rodeo y aumentar nuestra mochila de kilómetros. Acabamos haciendo una pequeña ruta de 21 kms llena de subidas y bajadas pero conociendo gente muy maja en el camino. Al acabar volvimos a Bahía Drake y nos dimos un homenaje por todo lo alto, patacones, plátano frito y la cerveza buena del país (Pilsen).
 
 [![](/assets/images/Costa_Rica_5/img_3.jpg)](https://blogger.googleusercontent.com/img/a/AVvXsEg7UkBM3zLvZm0xCAVVbueQoZ23RS4EAYRMjzQ9P4yLzNmVtsKxiIpnQMMj7XJLlypTiTpuObpM7i8H7tYglMUTB8F-wrdnMdWOaUg-GtDxlKDKzXg0gCTk2rZUTpP6yEpPnNdlJ-ruhv8TZhdbxIhs2bP3mohTD39F_Ih2URe7-todWq-ZRPDfKXLuWiS8)
+
 
 Hemos pasado la tarde descansando, bebiendo margaritas y cogiendo fuerzas porque mañana llega el plato fuerte de estos días: el tour de Sirena, un paseo por el corazon de la selva de Corcovado.
