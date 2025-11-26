@@ -9,21 +9,28 @@ El mal día de ayer no nos iba a desanimar, para el día de hoy planificamos una
 
 Al subir por el sendero nos encontramos a una francesa que hablaba español mejor que yo y una alemana sonriente (así de sorprendido me quedé yo). La verdad es que las pegamos una pasada andando importante. Nora puso primera y empezamos a subir rapidito. Llegamos al punto de encrucijada donde salíamos del sendero privado para entrar en el sendero del Cerro chato. La subida no era fácil.
 
-![](/assets/images/Costa_Rica_9/img_1.png)![](/assets/images/Costa_Rica_9/img_2.png)En total el desnivel era de algo más de 1000 metros y justo antes de llegar al cráter hay que descender rapelando. Justo en ese punto se ve la laguna abajo y el volcán Arenal de fondo.
+![Foto1]({{"/assets/images/Costa_Rica_9/img_1.png" | absolute_url}})
+![Foto2]({{"/assets/images/Costa_Rica_9/img_2.png" | absolute_url}})
 
-![](/assets/images/Costa_Rica_9/img_3.png)La laguna tiene un precioso color celeste, aún así no nos atrevimos a bañarnos porque no sabíamos si se podía hacer con seguridad. Estuvimos ahí un rato descansando y echándonos unas fotos.
+En total el desnivel era de algo más de 1000 metros y justo antes de llegar al cráter hay que descender rapelando. Justo en ese punto se ve la laguna abajo y el volcán Arenal de fondo.
 
-![](/assets/images/Costa_Rica_9/img_4.png)La vuelta fue menos dura, nos encontramos con varios turistas que nos preguntaban cuanto les quedaba, les tranquilizamos diciendo que el camino estaba bien y que perseveraran.
+![Foto3]({{"/assets/images/Costa_Rica_9/img_3.png" | absolute_url}})
+La laguna tiene un precioso color celeste, aún así no nos atrevimos a bañarnos porque no sabíamos si se podía hacer con seguridad. Estuvimos ahí un rato descansando y echándonos unas fotos.
+
+![Foto4]({{"/assets/images/Costa_Rica_9/img_4.png" | absolute_url}})
+La vuelta fue menos dura, nos encontramos con varios turistas que nos preguntaban cuanto les quedaba, les tranquilizamos diciendo que el camino estaba bien y que perseveraran.
 
 Justo al final del camino, ya entrando en la carretera vimos un perezoso.
 
-![](/assets/images/Costa_Rica_9/img_5.png)
+![Foto5]({{"/assets/images/Costa_Rica_9/img_5.png" | absolute_url}})
 
 Al final la ruta fueron prácticamente 20 km con este perfil.
 
-![](/assets/images/Costa_Rica_9/img_6.png)"noto las piernas un pelín cansadas" dice Nora. Yo os prometo que es una especie de máquina, si no le llegó a decir lo que llevábamos andado ni se habría quejado. Total que llegamos cansados, así que fuimos a una laguna cercana para hacer una foto más del volcán Arenal y después nos fuimos a recargar las pilas al río de aguas termales.
+![Foto6]({{"/assets/images/Costa_Rica_9/img_6.png" | absolute_url}})
 
-![](/assets/images/Costa_Rica_9/img_7.png)
+"noto las piernas un pelín cansadas" dice Nora. Yo os prometo que es una especie de máquina, si no le llegó a decir lo que llevábamos andado ni se habría quejado. Total que llegamos cansados, así que fuimos a una laguna cercana para hacer una foto más del volcán Arenal y después nos fuimos a recargar las pilas al río de aguas termales.
+
+![Foto7]({{"/assets/images/Costa_Rica_9/img_7.png" | absolute_url}})
 
 
 Gracias a todos los que leéis el blog, siento que nos acompañais en esta aventura.
