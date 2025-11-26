@@ -1,8 +1,6 @@
 ---
 title: 'Costa Rica XV: Turrialba'
 permalink: /Page/Blog/Costa_Rica_15
-categories:
-- Costa_Rica
 original_date: '2024-11-29T18:23:00-08:00'
 date: '2024-11-29 18:23:00'
 ---
@@ -22,5 +20,6 @@ Despues hemos cogido la autopista 32 hacia Turrialba, hemos visto que ha habido 
 Ahora estamos exactamente en el barrio  El Recreo, y hemos tenido que atravesar Turrialba donde habia un tráfico horrible. Para saltarnos ese atasco he seguido a un par de todoterrenos que se han metido por unas calles que en principio no parecían transitables, ya sabéis.. socavones, vías de tren, etcétera. Pues ahí ido, le he puesto la tracción 4 a nuestro Jimny y nos hemos ahorrado como 15 minutos de atasco. Con lo que nos gusta ahorrar imaginaos lo contentos que estamos.  Ahora estamos como en una especial de refugio al lado de un río que tiene muy buena pinta. Pero lo más importante, tiene agua caliente.
 
 Mañana más, pero no mejor porque es imposible. Un abrazo
+
 
 Pd: hoy es Black Friday y nos hemos cogido unos vuelos para ver a la familia Suiza por 130 euros los dos. Chollazo.
