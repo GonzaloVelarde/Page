@@ -31,7 +31,7 @@ Realmente nos gustó mucho, creo que es un espacio conservado de verdad y que le
 
 <iframe width="100%" height="480"
   src="https://youtube.com/shorts/KOiV9RaPMYQ"
-  title="Cruzando el rio, sabes que te quiero"
+  title="21 de noviembre de 2024"
   frameborder="0"
   allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
   allowfullscreen>
