@@ -1,8 +1,6 @@
 ---
 title: 'Costa Rica XII: Puerto Viejo'
 permalink: /Page/Blog/Costa_Rica_12
-categories:
-- Costa_Rica
 original_date: '2024-11-27T06:08:00-08:00'
 date: '2024-11-27 06:08:00'
 ---
@@ -26,5 +24,6 @@ Nos contaron que tienen una toxina en la piel que es muy jodida cuando te entra 
 La verdad es que molan mucho y serían muy abrazables si no fuera porque millones de parásitos viven en su piel/pelo. De ahí continuamos y paramos a comer en la Soda Arcoíris 🌈. Nos zampamos un zumo de maracuyá, un casado especial con arroz, frijoles, filete de pollo, patacones y dos empanadillas de queso y carne. Todo por menos de 15 euros. Buen trato. En 20 minutos más de coche llegamos a nuestra casa por los siguientes tres próximos días. Es propiedad de un italiano que lleva aquí viviendo aquí ni se sabe y no querría levantar falsos testimonios pero juraría que le ha dado de más a los porrillos. Mañana hablamos de eso con más tiempo pero en Puerto Viejo huele a Marihuana que es un tema. Total que salimos a dar un paseo por la playa de Cócles. Es muy bonita, se podría decir que paradisíaca. Hay gente surfeando. Las olas son orilleras pero hay olas, algo es algo. Más tarde, ya cuando cayó la noche,  fuimos a tomar algo a Puerto Viejo. Es más guirilandia que Limón, sin embargo es agradable de pasear. Hay muchos puestos y playa negra justo al lado en todo momento. Hemos tomado algo y cenado en una lavandería, somos unos excéntricos. Resulta que hay una lavandería que tiene bar y juegos de mesa. Así que hemos acabado el día con unas birras y jugando al Jenga. Por cierto, he ganado.
 
 [![](/assets/images/Costa_Rica_12/img_5.jpg)](https://blogger.googleusercontent.com/img/a/AVvXsEjkn4nteEowWHcXrwk8RZLHqNOlHRLQXbA8SuoH2YuorSSphyZUPumLRcDNriBfToKyCsU8bxgrpdLwrhmL7dXq_ZC_uvwxyu7Po6inNoQ7Tf1ukRxtikmgbAAnWJvn2elgouOWpY3tA30xUhioltLvKuryT8KU_CPST5GC1uBfe8BbNMcTPdiYZiDhzIqV)
+
 
 Mañana me gustaría hablar de la cultura afro-caribeña pero tampoco prometo nada, que estoy se vacaciones.
