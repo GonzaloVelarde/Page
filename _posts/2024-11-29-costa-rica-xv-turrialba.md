@@ -7,13 +7,14 @@ date: '2024-11-29 18:23:00'
 
 Contra todo pronóstico amanecemos con sol por tercer día consecutivo. Hemos dormido unas 10 horas, hacia tiempo que no descansaba tanto. El hippie que regenta este hostel nos dejó unos cocos que añadimos a nuestro menú de desayuno diario
 
-[![](/assets/images/Costa_Rica_15/img_1.jpg)](https://blogger.googleusercontent.com/img/a/AVvXsEgc70pODJJOD3E5tE215gvM4-t7UPrAfH-Vg11mo7twM-cMMUVYTVT_t7u7z1PJtd_I2bLOyI51mnhU5w1zR9BGVXrh8rvBIjfWYY_7AH7mPwbUPnVEbWRcyr7suH9sf9MaAEB13gMYyyXR2csijms4Pet7sCH_ZL3nv8TR62wzkN4FKcFq3-2QXK3URpeh)
+
+![Foto1]({{"/assets/images/Costa_Rica_15/img_1.jpg" | absolute_url}})
 
 Llegó la hora de dejar el Caribe e irnos al centro del pais. Hoy ha sido la mañana más tranquila de los últimos 15 días, recogimos con calma, aprovechamos los últimos rayitos caribeños y tiramos los últimos calcetines y calzoncillos en estado catastrófico. Hemos adoptado la manera en la que la naturaleza presenta la peligrosidad de los animales. Tengo una bolsa blanca donde hay ropa usada que con un lavado y un padre nuestro se salvarán. Y luego, tengo una bolsa azul chillón que necesita una visita a Lourdes, un exorcismo o ir directos a la basura.
 
 Hemos querido hacer una parada técnica en Limón, más concretamente en Playa Bonita porque cuando fuimos estaba diluviando. Resulta que es realmente bonita con sol. Antes nos hemos hecho con unos patties de [Soda el Patt](https://maps.app.goo.gl/ANPgMPV6R2xRk3fC9)y y una caldosa en cevicheria Miedo. El que no sepa lo que es una caldosa que pinche [aquí](https://youtube.com/shorts/U5ypi0SCYmY?si=NsM7f2FgytfEesfc). Como no quedaba ceviche en el sitio, el chaval que nos atendió se ha cascado 30 minutos de monólogo para entreternos hasta que llegara la comida. Apenas tendría 17/18 años y era un chico super despierto e interesante. Nos ha hablado de que Limón no es muy turístico porque siempre aparecen noticias de asesinatos y problemas por el narcotráfico, y se hacía la pregunta. Qué país costero no tiene ese problema? Lo que pasa es que como solo sale lo malo en las noticias la gente no quiere venir.  Debo decir que a nosotros nos ha parecido un sitio completamente seguro y con gente encantadora. El caso es que nos hemos zampado las caldosas y el Patty en playa Bonita y nos hemos dado un cole que nos ha sabido a gloria.
 
-[![](/assets/images/Costa_Rica_15/img_2.jpg)](https://blogger.googleusercontent.com/img/a/AVvXsEjZprwFyGHzLf_gTNE5w6jVC-DmWMHO0O2CIOZIrL9TUqtcGzThJIHhAL30ChrKXL6wGHOW9UOQ0K4nUcBvtAXDhY8rOsaqpY8Xc0Yq4bSSRQZxlJIevZjULKZmhtAbOmMvTuXSw9vIh-13QdrtOOX5jBwIn-xgCII9UcZ0Cr4vwW4wXxQDoXLWOiZiYpl-)
+![Foto2]({{"/assets/images/Costa_Rica_15/img_2.jpg" | absolute_url}})
 
 Despues hemos cogido la autopista 32 hacia Turrialba, hemos visto que ha habido desprendimientonde tierras por las lluvias pero nada que nos afectase en absoluto.
 
