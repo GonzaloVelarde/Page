@@ -1,6 +1,6 @@
 ---
 title: "Costa Rica IX: d\xEDa de sol en Fortuna"
-permalink: /Page/Blog/Costa_Rica_9
+permalink: /Blog/Costa_Rica_9
 original_date: '2024-11-23T18:05:00-08:00'
 date: '2024-11-23 18:05:00'
 ---
