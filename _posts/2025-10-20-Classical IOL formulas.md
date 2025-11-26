@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Classical formulas
-categories: optics
+categories: Biometry
 ---
 
 ## Introduction
