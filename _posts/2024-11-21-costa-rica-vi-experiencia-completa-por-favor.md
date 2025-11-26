@@ -1,8 +1,6 @@
 ---
 title: 'Costa Rica VI: experiencia completa, por favor'
 permalink: /Page/Blog/Costa_Rica_6
-categories:
-- Costa_Rica
 original_date: '2024-11-21T20:58:00-08:00'
 date: '2024-11-21 20:58:00'
 ---
@@ -30,5 +28,6 @@ Os aconsejo buscar la extensión del parque, es enorme. Nuestro tour duró unas 
 [![](/assets/images/Costa_Rica_6/img_6.jpg)](https://blogger.googleusercontent.com/img/a/AVvXsEjZtPusOBPhHOhsN-dBB0OFF6dssPG7G65TA6gHjWME92U_Gf6PZ-bz02wiidFi6NbjlFeRrHY8p0QRBLIQdgu_Gkmgrp0_23QNwlkr5Y6PWv8HaMGRVmrQAC0BMbjGY_7yoB18ArQrK12bXXIVyz5zFaS7af5iiHhabOZ1pkza4FdenD-ShIKQfWPWbm7T)
 
 Realmente nos gustó mucho, creo que es un espacio conservado de verdad y que le sacan partido con el turismo de forma controlada. No me pareció un engaña-guiris. Para desgracia de Nora no vimos serpientes. Vamos con la historia, al parecer este sitio era un motor económico importante a raíz de la fiebre del oro. En esa misma zona que recorrimos estaba todo lleno de granjas y fue cerca del 1970 cuando se desmanteló todo aquello y se decidió proteger el ecosistemas. Llama la atención que muchos de esos árboles tengan solamente 50 años. Comimos en la estación Sirena con unos franceses un poco raros y directos de vuelta a Bahía Drake donde nos esperaba otro barco hacia Sierpe. Ese viaje de vuelta fue claramente peor pero nosotros estamos más felices. En el segundo barco hacia Sierpe ya con las maletas nos llovió mucho y las maletas se mojaron (era lo único que quedaba seco). Al llegar a Sierpe nos cambiamos y cogimos el coche para llegar a Quepos, está a una distancia de aproximadamente 2 horas en coche pero los atascos aquí son terribles. En mitad del viaje cayó una tormenta de esas en las que el limpiaparabrisas no da abasto y justo cuando estamos llegando al hotel:
+
 
 Lo que nos faltaba para acabar un día larguísimo, un para de carreteras inundadas. Menos mal que había un motorista que acaba de pasar y pensé: hombre si ha pasado este buen hombre en una scooter, podré pasar yo con un todoterreno. Y así fue,  he perdido la cuenta de los ríos que hemos pasado en solo 3 días pero una cosa está clara, ha sido muy divertido.
