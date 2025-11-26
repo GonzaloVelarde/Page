@@ -1,8 +1,6 @@
 ---
 title: "Costa Rica IX: d\xEDa de sol en Fortuna"
 permalink: /Page/Blog/Costa_Rica_9
-categories:
-- Costa_Rica
 original_date: '2024-11-23T18:05:00-08:00'
 date: '2024-11-23 18:05:00'
 ---
@@ -26,5 +24,6 @@ Al final la ruta fueron prácticamente 20 km con este perfil.
 ![](/assets/images/Costa_Rica_9/img_6.png)"noto las piernas un pelín cansadas" dice Nora. Yo os prometo que es una especie de máquina, si no le llegó a decir lo que llevábamos andado ni se habría quejado. Total que llegamos cansados, así que fuimos a una laguna cercana para hacer una foto más del volcán Arenal y después nos fuimos a recargar las pilas al río de aguas termales.
 
 ![](/assets/images/Costa_Rica_9/img_7.png)
+
 
 Gracias a todos los que leéis el blog, siento que nos acompañais en esta aventura.
