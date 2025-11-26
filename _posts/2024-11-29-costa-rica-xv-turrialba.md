@@ -1,6 +1,6 @@
 ---
 title: 'Costa Rica XV: Turrialba'
-permalink: /Page/Blog/Costa_Rica_15
+permalink: /Blog/Costa_Rica_15
 original_date: '2024-11-29T18:23:00-08:00'
 date: '2024-11-29 18:23:00'
 ---
