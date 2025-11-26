@@ -1,8 +1,6 @@
 ---
 title: 'Costa Rica II: la lluvia en Uvita es una maravilla'
 permalink: /Page/Blog/Costa_Rica_2
-categories:
-- Costa_Rica
 original_date: '2024-11-17T18:45:00-08:00'
 date: '2024-11-17 18:45:00'
 ---
@@ -22,5 +20,6 @@ Pero nuestra obstinación es tan grande como nuestra inconsciencia, asi que nos 
 ![](/assets/images/Costa_Rica_2/img_2.png)Tambien había olitas, mi mente en ese momento solo pensaba en alquilar unas tablas y meternos, pero realmente no merecia la pena. Las lluvias respetaron durante la tarde y conseguimos ver el pueblo y la playa de Dominicalita. Muy bonita y también se hacer surf. Comimos en la Soda de Domi, Casados con filete. Que es, básicamente, el número 4 de cualquier casa de comidas con platos combinados.
 
 Seguía sin llover así que aprovechamos para acercarnos a un poza con catarata.
+
 
 ![](/assets/images/Costa_Rica_2/img_3.png)Aunque el ambiente era muy familiar, el color del agua no nos invitó a bañarnos. A las 18:00 se hizo de noche, no quedaba más plan que ir a casa y darle a las pack de seis Imperiales que habíamos comprado y planificar el día siguiente. Sierpe
