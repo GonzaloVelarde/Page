@@ -1,8 +1,6 @@
 ---
 title: "Costa Rica XIV: otro d\xEDa en el paraiso"
 permalink: /Page/Blog/Costa_Rica_14
-categories:
-- Costa_Rica
 original_date: '2024-11-28T18:26:00-08:00'
 date: '2024-11-28 18:26:00'
 ---
@@ -38,5 +36,6 @@ A la vuelta paramos en casa para ducharnos y volver a oler bien, siempre dentro 
 [![](/assets/images/Costa_Rica_14/img_8.jpg)](https://blogger.googleusercontent.com/img/a/AVvXsEh8zV3RfDcB5vep67C10FjvK6s2AEdQS_Rg0_jpgeCvz4ezS5diQ1AfsnlgYD3UTJ_xnjIQJpJlocr_RyrS9YFRs5P2bZKBferCuW8DTxQfiR-nQYbkkZWiJMX_TYB-GS62Brodyk0TgTx01jobdQG0q22IuKKRKw07wHWbKdgUI0g_z5uZZwLAnA00VN9R)
 
 pd: Nora se ha desecho de lo que quedaba de dos de sus pantalones y una camiseta. Hay otra que huele fatal pero se aferra a ella. Por mi parte, he postergado la decisión pero el problema sigue ahi. Supongo que mañana tendré que tomar decisiones.
+
 
 Pd2: estábamos un poco cansados y hemos dado plantón a Heidi y a Felipe. Ahora vivo con el miedo de sufrir la venganza de Jehová.
