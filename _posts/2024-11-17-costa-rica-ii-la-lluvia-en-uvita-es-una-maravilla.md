@@ -7,7 +7,7 @@ date: '2024-11-17 18:45:00'
 
 El segundo día en Costa Rica te enteras de muchas cosas interesantes, por ejemplo que no se puede dormir más allá de las 5:00 am, o que tienes que llevas efectivo para todo, o que si sacas efectivo en finde semana te cobran un 1% de comisión. Hicimos un primer desayuno en casa con lo que sobró de tortilla del viaje sentados en nuestro porche.
 
-![](/assets/images/Costa_Rica_2/img_1.png)
+![Foto1]({{"/assets/images/Costa_Rica_2/img_1.png" | absolute_url}})
 
 Dimos un paseo por la zona y convencí a Nora para hacer un segundo desayuno en una panadería que estaba a unos 10 minutos andando. Tienen una gran tradición de hacer pan bueno, encontré barras de masa madre, panes con ralladura de queso por encima, panes con chocolate y un largo etc. Nora, se pidió una empanadilla de piña porque si hay algo exótico en el menú no ve otra opción.
 
@@ -17,9 +17,13 @@ Me da vergüenza reconocerlo pero no entramos en la cascada porque hacia malísi
 
 Pero nuestra obstinación es tan grande como nuestra inconsciencia, asi que nos fuimos a ver Playa Hermosa. Había olas. No estaba muy bonito pero si hay olas siempre me ponen contento. Nos bañamos y conocimos a un socorrista argentino con más labia que vergüenza que nos recomendó ir a Dominical.
 
-![](/assets/images/Costa_Rica_2/img_2.png)Tambien había olitas, mi mente en ese momento solo pensaba en alquilar unas tablas y meternos, pero realmente no merecia la pena. Las lluvias respetaron durante la tarde y conseguimos ver el pueblo y la playa de Dominicalita. Muy bonita y también se hacer surf. Comimos en la Soda de Domi, Casados con filete. Que es, básicamente, el número 4 de cualquier casa de comidas con platos combinados.
+![Foto2]({{"/assets/images/Costa_Rica_2/img_2.png" | absolute_url}})
+
+Tambien había olitas, mi mente en ese momento solo pensaba en alquilar unas tablas y meternos, pero realmente no merecia la pena. Las lluvias respetaron durante la tarde y conseguimos ver el pueblo y la playa de Dominicalita. Muy bonita y también se hacer surf. Comimos en la Soda de Domi, Casados con filete. Que es, básicamente, el número 4 de cualquier casa de comidas con platos combinados.
 
 Seguía sin llover así que aprovechamos para acercarnos a un poza con catarata.
 
 
-![](/assets/images/Costa_Rica_2/img_3.png)Aunque el ambiente era muy familiar, el color del agua no nos invitó a bañarnos. A las 18:00 se hizo de noche, no quedaba más plan que ir a casa y darle a las pack de seis Imperiales que habíamos comprado y planificar el día siguiente. Sierpe
+![Foto3]({{"/assets/images/Costa_Rica_2/img_3.png" | absolute_url}})
+
+Aunque el ambiente era muy familiar, el color del agua no nos invitó a bañarnos. A las 18:00 se hizo de noche, no quedaba más plan que ir a casa y darle a las pack de seis Imperiales que habíamos comprado y planificar el día siguiente. Sierpe
