@@ -1,8 +1,6 @@
 ---
 title: "Costa Rica IV: tour casero por Bah\xEDa Drake"
 permalink: /Page/Blog/Costa_Rica_4
-categories:
-- Costa_Rica
 original_date: '2024-11-18T20:15:00-08:00'
 date: '2024-11-18 20:15:00'
 ---
@@ -24,5 +22,6 @@ Despues de andas unos 15 kms llegamos a playa Rincón de San Jocesito. Que se ll
 [![](/assets/images/Costa_Rica_4/img_3.jpg)](https://blogger.googleusercontent.com/img/a/AVvXsEgpl4XJBpatkNiduUM-BCpLcH7RkNcjAAcOfZ84_1QnKdXMufVuRLESwgfhfpK54IT4WOOcrNqadFH_eIi7g-TxywZ08iNTsXmtdDeV8LKYicFhfZQ1fMdQcMp_NEuglSnW2fIWPPb1oPDAuL7d_-3C8_VcsEXoSHiBUJTAC9sjWroGKK-WBWvc1oxNL9AI)
 
 Disfrutamos de un baño al atardecer y llegamos 5 minutos antes de que se acabara la barra libre de margaritas en el bar de la playa. Terminamos el día con un cocktail y con la noticia de que se reabrirá el parque natural de Corcovado en un par de días.
+
 
 [![](/assets/images/Costa_Rica_4/img_4.jpg)](https://blogger.googleusercontent.com/img/a/AVvXsEiNn-zTd9q9o6PT1qSGCN5r78hx1KZAMKwIHbm6-rXnxaVqG-ITLhnZfoOg7CXo0jObjSkIF8oN7Ocyj_kVt_mYcXO93qoCq8zjrQdYjhakdNebIbmuItSbAPwR2jHR02UzX8rAPjeFp3aUhDyetA7llbSewZ8Eh4GoIOIKQ2NQSe2y1l4iEEmQOMTh9LnA)
