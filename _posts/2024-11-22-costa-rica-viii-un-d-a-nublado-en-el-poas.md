@@ -1,8 +1,6 @@
 ---
 title: "Costa Rica VIII: Un d\xEDa nublado en el Poas"
 permalink: /Page/Blog/Costa_Rica_8
-categories:
-- Costa_Rica
 original_date: '2024-11-22T18:40:00-08:00'
 date: '2024-11-22 18:40:00'
 ---
@@ -28,5 +26,6 @@ Por fin, Fortuna. El sitio parece bastante turístico pero Nora ha encontrado un
 Dos cosas importantes, la primera es que ha empezado a llover y del agua salía vapor y ha molado mucho. La segunda esque allí la gente llevaba un pedo importante, lo que hemos visto es que la gente va con la familia o amigos a pasar la tarde con cervezas y más. Se sientan ahí, empiezan a beber y cuando se levantan las reglas de la física han cambiado por completo. Hemos visto a uno meterse una buena guayaba y levantarse torpemente hasta llegar a la orilla.
 
 Como nos ha pillado de nuevas y no íbamos preparados, a la vuelta hemos comprado cena y cervezas. Así que celebraremos que es viernes en nuestra terraza, sin riesgos aparentes de caídas.
+
 
 [![](/assets/images/Costa_Rica_8/img_4.jpg)](https://blogger.googleusercontent.com/img/a/AVvXsEgFJVOo5ZdVtJpyExTgBSFI0aEvGr_5Z9xtpwV1HcncUpdA0uTf81zpgaMJy2dlendg8CS-JeLNhX6tugUq8c7RSEiv-jTX_Kdt3NvqQynt41w_4VuorGeFSdW7QsnoiN0ytxeIsSpc9auwVFq6ng4YWLqQKADtQPFI8nm7pU_75abJvUklNniDBi6tQs-r)
