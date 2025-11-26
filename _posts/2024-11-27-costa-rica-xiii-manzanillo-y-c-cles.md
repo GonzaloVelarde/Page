@@ -1,8 +1,6 @@
 ---
 title: "Costa Rica XIII: Manzanillo y C\xF3cles"
 permalink: /Page/Blog/Costa_Rica_13
-categories:
-- Costa_Rica
 original_date: '2024-11-27T17:46:00-08:00'
 date: '2024-11-27 17:46:00'
 ---
@@ -26,5 +24,6 @@ y aprovecho este momento para entroncar algo que os presente ayer. La comunidad 
 Eso, a Nora la cabreo mucho, así que probablemente veréis su comentario en Google Maps. Nos pegamos un bañito de vuelta y cogimos el coche hasta la playa de Cócles. Me gusta mucho esta playa. Tiene muy buen ambiente, bastantes guiris pero la gente juega al fútbol, al volleyball y los chiringuitos tienen buena pinta. Vimos el atardecer en la playa y volvimos q nuestra casita en la jungla, donde nos esperaban algunas cervezas y una agradeble charla mirando a la naturaleza.
 
 [![](/assets/images/Costa_Rica_13/img_5.jpg)](https://blogger.googleusercontent.com/img/a/AVvXsEjBEPA19fp5BBT01R4guyFUUxLb-jdbsmZ7EVr5CAMWAJOvNYuZqF0x83iD5MFHCSCSFlmIa1IbWb-OP4sTuGqZlBCyQrI0JCnMiRapMp64PqY9Qfe3ajC7ExQpqC8gcZtuc_XV39GvP3Uc5KnLb8eJyOsN9eXsCs4AEaTZ5lwCrDDil3YduwZgmrLCjVJH)
+
 
 Atencion: nos han escrito Heidi y Felipe, que quieren quedar mañana y enseñarmos Cahuita. Seguiremos informando, Jehová mediante.
