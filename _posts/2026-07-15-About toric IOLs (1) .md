@@ -28,12 +28,17 @@ Three formulas and three different proposed axes of implantation. The Barrett to
 Keen minds should be aware of the SimK annotation above. This is (almost) the whole thing: corneal power calculation. In the field of ophthalmology, we have a long history with this issue. The fictitious corneal refractive index invented to compensate for the posterior corneal power is a daily practice in biometry. Let me break this down:
 
 air index=1
+
 corneal index=1.376
+
 aqueous index=1.336
 
 Corneal power = Anterior Corneal Power + Posterior Corneal power
+
 Anterior Corneal Power = 1000*(1.376-1) / Anterior Radius (mm)
+
 Posterior Corneal Power = 1000*(1.336-1.376) / Posterior Radius (mm)
+
 
 As the aqueous refractive index is lower than the corneal index, this second surface power has negative dioptric power. So the posterior corneal surface is subtracting power from the anterior surface. But the question was: how much? The strategy was to use a lower corneal refractive index (fictitious) in order to use the anterior corneal radius while giving less power. That fits the experimental results and compensates for the fact that the posterior corneal layer couldn't be measured. Some authors fixed that fictitious index at 1.3375 but others at 1.332, and that results in different total corneal power.
 
