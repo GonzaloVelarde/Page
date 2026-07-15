@@ -11,7 +11,7 @@ I came up this morning with a typical biometry situationship. ESCRS IOL calculat
 Lets talks about a case:
 
 IOL Master 700 readings:
-Simk (1.3375):  K1: 41.98 D	A1: 144		K2:	42.56	A2: 54
+Simk (1.3375):  *K1*: 41.98 D	*A1*: 144		*K2*:	42.56	*A2*: 54
 ACD: 3.91 mm
 AL:	24.97 mm
 
@@ -21,4 +21,8 @@ Toric IOL propoused by ESCRS suite calculator:
 
 ![Formulas image]({{ '/assets/images/Toric_IOLs_1/Toric_IOLs_results.png' | absolute_url }})
 
-Three formulas and three different propoused axis of implantation. 
+Three formulas and three different propoused axis of implantation. Barrett toric calculator results is not in the picture but is similar to KANE (something rounding 30 degrees)
+
+> **¿Whats happening here?**
+
+Eagle minds should be aware about 
