@@ -21,8 +21,8 @@ Toric IOL proposed by ESCRS suite calculator:
 
 ![Formulas image]({{ '/assets/images/Toric_IOLs_1/Toric_IOLs_results.png' | absolute_url }})
 
-Three formulas and three different proposed axes of implantation. Barrett toric calculator results are not in the picture but are similar to KANE (something around 30 degrees)
+Three formulas and three different proposed axes of implantation. Barrett toric calculator results are not in the picture but are similar to KANE (something around 32 degrees)
 
-> **¿What's happening here?**
+**¿What's happening here?**
 
-Eagle minds should be aware of the SimK annotation above. 
+Eagle minds should be aware of the SimK annotation above. This is (almost) the whole thing, corneal power calculation. In the ophthalmology field we have a large baggage with this point. The fictious corneal refractive index invented to compensate the posterior corneal power is a daily practice in biometry. 
