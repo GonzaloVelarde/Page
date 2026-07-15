@@ -19,7 +19,7 @@ I know that's tricky because the astigmatism is minimal and a spherical IOL coul
 
 Toric IOL proposed by ESCRS suite calculator:
 
-![Formulas image]({{ '\assets\images\Toric_IOLs_1\Toric_IOLs_results.png' | absolute_url }})
+![Formulas image]({{ '/assets/images/Toric_IOLs_1/Toric_IOLs_results.png' | absolute_url }})
 
 Three formulas and three different proposed axes of implantation. The Barrett toric calculator results are not shown in the picture but are similar to KANE's (something around 32 degrees)
 
