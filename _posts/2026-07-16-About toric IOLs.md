@@ -25,4 +25,4 @@ Three formulas and three different proposed axes of implantation. Barrett toric 
 
 **¿What's happening here?**
 
-Eagle minds should be aware of the SimK annotation above. This is (almost) the whole thing, corneal power calculation. In the ophthalmology field we have a large baggage with this point. The fictious corneal refractive index invented to compensate the posterior corneal power is a daily practice in biometry. 
+Eagle minds should be aware of the SimK annotation above. This is (almost) the whole thing, corneal power calculation. In the ophthalmology field we have a large baggage with this point. The fictious corneal refractive index invented to compensate the posterior corneal power is a daily practice in biometry. Let me 
