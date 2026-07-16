@@ -49,7 +49,7 @@ Vectorial calculation is a simple but powerful tool and I think it could be fun 
 
 We have anterior astigmatism (1.367) of -0.63 D @ 144
 
-Let's follow this simple formula:
+Let's follow this simple formula (lets keep it simple and forget about vertex distance, its impact could be neglected in this case)
 
 $$\text{Residual Astigmatism} = \text{Anterior Corneal Astigmatism} + \text{Posterior Corneal Astigmatism}$$ (where a non-toric IOL is implanted)
 
