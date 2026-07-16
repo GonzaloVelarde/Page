@@ -4,7 +4,6 @@ title: About toric IOLs (1)
 categories: Biometry
 ---
 
-## Introduction
 
 I came across a typical biometry situation this morning. The ESCRS IOL calculator has become a standard in my opinion for calculating intraocular lenses. It is easy to use and shows reports from several formulas at the same time. Great idea!
 
